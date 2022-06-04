@@ -3,7 +3,7 @@
 ```lua
 local Patch = {
     ["Pronouns"] = "he/him",
-    ["Languages"] = ["NodeJS","Lua"],
+    ["Languages"] = ["NodeJS","Lua","Learning C#"],
     ["Contact"] = "patch#1339"
 }
 ```
