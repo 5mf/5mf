@@ -4,7 +4,7 @@
 local Patch = {
     ["Pronouns"] = "he/him",
     ["Languages"] = ["NodeJS","Lua","Lean","LOLCODE"],
-    ["Contact"] = "patch#1339"
+    ["Contact"] = "patch#1234"
 }
 ```
 
